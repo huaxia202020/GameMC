@@ -51,7 +51,7 @@
         ]
       },
       "--tweakClass",
-      "optifine.OptiFineForgeTweaker",
+      "optifine.OptiFineTweaker",
       "--launchTarget",
       "forgeclient",
       "--fml.forgeVersion",
